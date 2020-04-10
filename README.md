@@ -5,7 +5,7 @@ Manual to access the data
 How to Present and Get Access of Scourses and Data 
 The original code of software and algorithem, modeling and experitmantal data will be generated, uploaded , srored and made accessible on yixuanjin GitHub Repository. All data could be shared by submitting pull requests to this repository or by sending data via email to [Yixuan Jin] (mailto: yixuan2019.jin@connect.polyu.hk). 
 
-File Format 
+File Format;
 The software will be developed by applying C++ computer language, and the code of software and algorithms will be created and arranged in the folder named “sources”, with subfolders of each software and algorithms, where the files of software should contain standard files of C++ in the format such as *.h, *.cpp, *.vcproj, *vcxproj. Moreover, the experimental and modeling data will be 2D images in *.PNG format, 3D images in *.obj , and point cloud file in *.ply format, stored in the folder named “data”. Examples of how to organize the data are involved in [here] (https://github.com/yixuanjin/sare-db/tree/master/sources)
 
 File Naming 
